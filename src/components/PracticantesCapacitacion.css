@@ -1,0 +1,90 @@
+.practicantes-capacitacion {
+  margin-bottom: 40px;
+}
+
+.capacitacion-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.capacitacion-card {
+  background: linear-gradient(135deg, #f56565 0%, #e53e3e 100%);
+  color: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(245, 101, 101, 0.3);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.capacitacion-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(245, 101, 101, 0.4);
+}
+
+.capacitacion-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.capacitacion-id {
+  font-weight: 600;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.capacitacion-puntaje {
+  font-size: 1.5rem;
+  font-weight: 700;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 5px 12px;
+  border-radius: 8px;
+}
+
+.capacitacion-nombre {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.capacitacion-nivel {
+  font-size: 0.9rem;
+  opacity: 0.9;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.capacitacion-areas {
+  margin-top: 15px;
+}
+
+.capacitacion-areas ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 10px;
+}
+
+.capacitacion-areas li {
+  padding: 5px 0;
+  padding-left: 20px;
+  position: relative;
+}
+
+.capacitacion-areas li::before {
+  content: "⚠";
+  position: absolute;
+  left: 0;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .capacitacion-grid {
+    grid-template-columns: 1fr;
+  }
+}
+

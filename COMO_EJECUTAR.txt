@@ -1,0 +1,73 @@
+═══════════════════════════════════════════════════════════════
+  CÓMO EJECUTAR EL GENERADOR DE EVALUACIONES TÉCNICAS
+═══════════════════════════════════════════════════════════════
+
+MÉTODO 1: Desde PowerShell o CMD (Recomendado)
+───────────────────────────────────────────────────────────────
+
+1. Abre PowerShell o CMD
+
+2. Navega a la carpeta del escritorio:
+   cd Desktop\evaluacion_tecnica
+
+3. Ejecuta el generador con el archivo de ejemplo:
+   python generador_evaluaciones.py datos_evaluacion_ejemplo.json
+
+   O especifica un nombre para el reporte:
+   python generador_evaluaciones.py datos_evaluacion_ejemplo.json mi_reporte.md
+
+
+MÉTODO 2: Doble clic (Crear archivo .bat)
+───────────────────────────────────────────────────────────────
+
+1. Crea un archivo llamado "generar_reporte.bat" en la carpeta
+   (Ya está creado para ti)
+
+2. Haz doble clic en "generar_reporte.bat"
+
+
+MÉTODO 3: Desde el Explorador de Windows
+───────────────────────────────────────────────────────────────
+
+1. Abre la carpeta "evaluacion_tecnica" en el escritorio
+
+2. Haz clic derecho en el archivo "generador_evaluaciones.py"
+
+3. Selecciona "Abrir con" → "Python" (si está instalado)
+
+4. En la terminal que se abre, escribe:
+   python generador_evaluaciones.py datos_evaluacion_ejemplo.json
+
+
+PASOS ANTES DE EJECUTAR:
+───────────────────────────────────────────────────────────────
+
+1. Edita el archivo "datos_evaluacion_ejemplo.json" con tus datos reales
+   - Cambia la fecha, evaluador y período
+   - Agrega o modifica los practicantes
+   - Ajusta los puntajes y competencias
+
+2. Guarda el archivo JSON
+
+3. Ejecuta el generador (cualquiera de los métodos arriba)
+
+4. El reporte se generará automáticamente en formato .md (Markdown)
+
+
+EJEMPLO DE COMANDO COMPLETO:
+───────────────────────────────────────────────────────────────
+
+cd C:\Users\user\Desktop\evaluacion_tecnica
+python generador_evaluaciones.py datos_evaluacion_ejemplo.json reporte_final.md
+
+
+NOTAS:
+───────────────────────────────────────────────────────────────
+
+- Asegúrate de tener Python instalado (versión 3.6 o superior)
+- El archivo JSON debe estar en formato válido
+- El reporte se guardará en la misma carpeta
+- Puedes abrir el archivo .md con cualquier editor de texto o visualizador Markdown
+
+═══════════════════════════════════════════════════════════════
+

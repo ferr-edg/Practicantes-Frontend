@@ -1,0 +1,171 @@
+═══════════════════════════════════════════════════════════════
+  RESPUESTAS CORRECTAS - EVALUACIÓN TÉCNICA
+  INGENIERÍA DE SOFTWARE
+═══════════════════════════════════════════════════════════════
+
+NOTA: La evaluación consta de 10 preguntas (1 por cada competencia).
+Cada pregunta vale 2 puntos (Total: 20 puntos).
+
+═══════════════════════════════════════════════════════════════
+
+COMPETENCIA 1: Algoritmos y Estructuras de Datos
+───────────────────────────────────────────────────────────────
+
+PREGUNTA:
+¿Cuál es la complejidad temporal de una búsqueda binaria en un array ordenado?
+
+OPCIONES:
+A) O(n)
+B) O(log n)  ← RESPUESTA CORRECTA
+C) O(n²)
+D) O(1)
+
+───────────────────────────────────────────────────────────────
+
+COMPETENCIA 2: Bases de Datos
+───────────────────────────────────────────────────────────────
+
+PREGUNTA:
+¿Qué es una clave primaria (Primary Key)?
+
+OPCIONES:
+A) Un campo que identifica únicamente cada registro  ← RESPUESTA CORRECTA
+B) Un campo opcional
+C) Un tipo de índice
+D) Una relación entre tablas
+
+───────────────────────────────────────────────────────────────
+
+COMPETENCIA 3: Arquitectura de Software
+───────────────────────────────────────────────────────────────
+
+PREGUNTA:
+¿Qué es la arquitectura de software?
+
+OPCIONES:
+A) Estructura fundamental de un sistema de software  ← RESPUESTA CORRECTA
+B) Un lenguaje de programación
+C) Un framework
+D) Un método de testing
+
+───────────────────────────────────────────────────────────────
+
+COMPETENCIA 4: Testing y QA
+───────────────────────────────────────────────────────────────
+
+PREGUNTA:
+¿Qué es una prueba unitaria?
+
+OPCIONES:
+A) Prueba de una unidad individual de código  ← RESPUESTA CORRECTA
+B) Prueba de todo el sistema
+C) Prueba manual
+D) Prueba de rendimiento
+
+───────────────────────────────────────────────────────────────
+
+COMPETENCIA 5: DevOps y CI/CD
+───────────────────────────────────────────────────────────────
+
+PREGUNTA:
+¿Qué es CI/CD?
+
+OPCIONES:
+A) Integración y Despliegue Continuo  ← RESPUESTA CORRECTA
+B) Un lenguaje de programación
+C) Un framework
+D) Un tipo de base de datos
+
+───────────────────────────────────────────────────────────────
+
+COMPETENCIA 6: Seguridad
+───────────────────────────────────────────────────────────────
+
+PREGUNTA:
+¿Qué es SQL Injection?
+
+OPCIONES:
+A) Ataque que inserta código SQL malicioso  ← RESPUESTA CORRECTA
+B) Un tipo de base de datos
+C) Un framework
+D) Un método de backup
+
+───────────────────────────────────────────────────────────────
+
+COMPETENCIA 7: APIs y Microservicios
+───────────────────────────────────────────────────────────────
+
+PREGUNTA:
+¿Qué es una API REST?
+
+OPCIONES:
+A) Interfaz que usa métodos HTTP estándar  ← RESPUESTA CORRECTA
+B) Un framework
+C) Un lenguaje
+D) Un servidor
+
+───────────────────────────────────────────────────────────────
+
+COMPETENCIA 8: Patrones de Diseño
+───────────────────────────────────────────────────────────────
+
+PREGUNTA:
+¿Qué es un patrón de diseño?
+
+OPCIONES:
+A) Solución reutilizable a problema común  ← RESPUESTA CORRECTA
+B) Un framework
+C) Un lenguaje
+D) Un método de testing
+
+───────────────────────────────────────────────────────────────
+
+COMPETENCIA 9: Versionado (Git)
+───────────────────────────────────────────────────────────────
+
+PREGUNTA:
+¿Qué es Git?
+
+OPCIONES:
+A) Sistema de control de versiones distribuido  ← RESPUESTA CORRECTA
+B) Un framework
+C) Un lenguaje
+D) Un servidor
+
+───────────────────────────────────────────────────────────────
+
+COMPETENCIA 10: Frameworks y Librerías
+───────────────────────────────────────────────────────────────
+
+PREGUNTA:
+¿Qué es React?
+
+OPCIONES:
+A) Biblioteca JavaScript para interfaces  ← RESPUESTA CORRECTA
+B) Un lenguaje
+C) Un servidor
+D) Un método de testing
+
+═══════════════════════════════════════════════════════════════
+
+RESUMEN DE RESPUESTAS CORRECTAS:
+───────────────────────────────────────────────────────────────
+
+1. Algoritmos y Estructuras de Datos:     B) O(log n)
+2. Bases de Datos:                        A) Un campo que identifica únicamente cada registro
+3. Arquitectura de Software:              A) Estructura fundamental de un sistema de software
+4. Testing y QA:                          A) Prueba de una unidad individual de código
+5. DevOps y CI/CD:                         A) Integración y Despliegue Continuo
+6. Seguridad:                             A) Ataque que inserta código SQL malicioso
+7. APIs y Microservicios:                 A) Interfaz que usa métodos HTTP estándar
+8. Patrones de Diseño:                    A) Solución reutilizable a problema común
+9. Versionado (Git):                      A) Sistema de control de versiones distribuido
+10. Frameworks y Librerías:               A) Biblioteca JavaScript para interfaces
+
+═══════════════════════════════════════════════════════════════
+
+NOTA: Todas las respuestas correctas son la opción A, excepto la
+primera pregunta (Algoritmos y Estructuras de Datos) que es la opción B.
+
+═══════════════════════════════════════════════════════════════
+

@@ -1,0 +1,18 @@
+.observaciones {
+  margin-bottom: 40px;
+}
+
+.observaciones-content {
+  margin-top: 20px;
+  padding: 25px;
+  background: #f7fafc;
+  border-radius: 10px;
+  border-left: 4px solid #667eea;
+}
+
+.observaciones-content p {
+  color: #4a5568;
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+

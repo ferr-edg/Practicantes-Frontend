@@ -1,0 +1,133 @@
+{
+  "fecha": "2024-01-15",
+  "evaluador": "Ing. María González",
+  "periodo": "Enero 2024",
+  "observaciones": "Evaluación realizada mediante examen técnico y entrevista práctica. Se observó un buen nivel general en algoritmos, pero se requiere reforzar conocimientos en DevOps y seguridad.",
+  "practicantes": [
+    {
+      "id": "P001",
+      "nombre": "Juan Pérez",
+      "puntaje_total": 20,
+      "fortalezas": [
+        "Algoritmos y Estructuras de Datos",
+        "Bases de Datos",
+        "Arquitectura de Software"
+      ],
+      "areas_mejora": [],
+      "competencias": {
+        "Algoritmos y Estructuras de Datos": {"correctas": 10, "total": 10},
+        "Bases de Datos": {"correctas": 10, "total": 10},
+        "Arquitectura de Software": {"correctas": 9, "total": 10},
+        "Testing y QA": {"correctas": 8, "total": 10},
+        "DevOps y CI/CD": {"correctas": 7, "total": 10},
+        "Seguridad": {"correctas": 8, "total": 10},
+        "APIs y Microservicios": {"correctas": 9, "total": 10},
+        "Patrones de Diseño": {"correctas": 10, "total": 10},
+        "Versionado (Git)": {"correctas": 10, "total": 10},
+        "Frameworks y Librerías": {"correctas": 9, "total": 10}
+      }
+    },
+    {
+      "id": "P002",
+      "nombre": "Ana Martínez",
+      "puntaje_total": 18,
+      "fortalezas": [
+        "Testing y QA",
+        "APIs y Microservicios",
+        "Frameworks y Librerías"
+      ],
+      "areas_mejora": [
+        "Algoritmos y Estructuras de Datos",
+        "Patrones de Diseño"
+      ],
+      "competencias": {
+        "Algoritmos y Estructuras de Datos": {"correctas": 7, "total": 10},
+        "Bases de Datos": {"correctas": 8, "total": 10},
+        "Arquitectura de Software": {"correctas": 8, "total": 10},
+        "Testing y QA": {"correctas": 10, "total": 10},
+        "DevOps y CI/CD": {"correctas": 8, "total": 10},
+        "Seguridad": {"correctas": 7, "total": 10},
+        "APIs y Microservicios": {"correctas": 9, "total": 10},
+        "Patrones de Diseño": {"correctas": 6, "total": 10},
+        "Versionado (Git)": {"correctas": 9, "total": 10},
+        "Frameworks y Librerías": {"correctas": 9, "total": 10}
+      }
+    },
+    {
+      "id": "P003",
+      "nombre": "Carlos Rodríguez",
+      "puntaje_total": 12,
+      "fortalezas": [
+        "Versionado (Git)"
+      ],
+      "areas_mejora": [
+        "Algoritmos y Estructuras de Datos",
+        "Bases de Datos",
+        "Arquitectura de Software",
+        "Testing y QA",
+        "DevOps y CI/CD",
+        "Seguridad"
+      ],
+      "competencias": {
+        "Algoritmos y Estructuras de Datos": {"correctas": 4, "total": 10},
+        "Bases de Datos": {"correctas": 5, "total": 10},
+        "Arquitectura de Software": {"correctas": 3, "total": 10},
+        "Testing y QA": {"correctas": 4, "total": 10},
+        "DevOps y CI/CD": {"correctas": 2, "total": 10},
+        "Seguridad": {"correctas": 3, "total": 10},
+        "APIs y Microservicios": {"correctas": 5, "total": 10},
+        "Patrones de Diseño": {"correctas": 4, "total": 10},
+        "Versionado (Git)": {"correctas": 7, "total": 10},
+        "Frameworks y Librerías": {"correctas": 5, "total": 10}
+      }
+    },
+    {
+      "id": "P004",
+      "nombre": "Laura Sánchez",
+      "puntaje_total": 16,
+      "fortalezas": [
+        "Bases de Datos",
+        "Seguridad",
+        "Patrones de Diseño"
+      ],
+      "areas_mejora": [
+        "DevOps y CI/CD",
+        "Testing y QA"
+      ],
+      "competencias": {
+        "Algoritmos y Estructuras de Datos": {"correctas": 7, "total": 10},
+        "Bases de Datos": {"correctas": 9, "total": 10},
+        "Arquitectura de Software": {"correctas": 7, "total": 10},
+        "Testing y QA": {"correctas": 5, "total": 10},
+        "DevOps y CI/CD": {"correctas": 4, "total": 10},
+        "Seguridad": {"correctas": 9, "total": 10},
+        "APIs y Microservicios": {"correctas": 7, "total": 10},
+        "Patrones de Diseño": {"correctas": 8, "total": 10},
+        "Versionado (Git)": {"correctas": 8, "total": 10},
+        "Frameworks y Librerías": {"correctas": 7, "total": 10}
+      }
+    },
+    {
+      "id": "P005",
+      "nombre": "Roberto López",
+      "puntaje_total": 6,
+      "fortalezas": [],
+      "areas_mejora": [
+        "Todas las áreas técnicas requieren reforzamiento"
+      ],
+      "competencias": {
+        "Algoritmos y Estructuras de Datos": {"correctas": 2, "total": 10},
+        "Bases de Datos": {"correctas": 1, "total": 10},
+        "Arquitectura de Software": {"correctas": 1, "total": 10},
+        "Testing y QA": {"correctas": 1, "total": 10},
+        "DevOps y CI/CD": {"correctas": 0, "total": 10},
+        "Seguridad": {"correctas": 1, "total": 10},
+        "APIs y Microservicios": {"correctas": 1, "total": 10},
+        "Patrones de Diseño": {"correctas": 1, "total": 10},
+        "Versionado (Git)": {"correctas": 2, "total": 10},
+        "Frameworks y Librerías": {"correctas": 1, "total": 10}
+      }
+    }
+  ]
+}
+

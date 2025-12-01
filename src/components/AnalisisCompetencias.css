@@ -1,0 +1,57 @@
+.analisis-competencias {
+  margin-bottom: 40px;
+}
+
+.competencias-list {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.competencia-item {
+  background: #f7fafc;
+  padding: 20px;
+  border-radius: 10px;
+  border-left: 4px solid #667eea;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.competencia-item:hover {
+  transform: translateX(5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.competencia-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.competencia-nombre {
+  font-weight: 600;
+  color: #2d3748;
+  font-size: 1rem;
+}
+
+.competencia-porcentaje {
+  font-weight: 700;
+  color: #667eea;
+  font-size: 1.1rem;
+}
+
+.competencia-barra-container {
+  width: 100%;
+  height: 12px;
+  background: #e2e8f0;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.competencia-barra {
+  height: 100%;
+  border-radius: 6px;
+  transition: width 0.5s ease;
+}
+
