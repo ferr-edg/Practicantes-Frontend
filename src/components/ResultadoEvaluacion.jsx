@@ -58,7 +58,7 @@ function ResultadoEvaluacion({ resultado, onNuevaEvaluacion }) {
         setGuardadoExitoso(true)
         alert('✅ Evaluación guardada exitosamente en Supabase')
       } else {
-        alert('⚠️ No se pudo guardar en Supabase. Verifica que el backend esté corriendo en http://localhost:4000')
+        alert('⚠️ No se pudo guardar en Supabase. Verifica que el backend esté disponible.')
       }
     } catch (error) {
       console.error('Error guardando en backend:', error)
